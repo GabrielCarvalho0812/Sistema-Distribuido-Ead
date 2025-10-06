@@ -1,0 +1,3 @@
+[submodule "Service-Registry-ead"]
+	path = Service-Registry-ead
+	url = git@github.com:GabrielCarvalho0812/Service-Registry-ead.git
