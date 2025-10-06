@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+target/
+out/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper (caso exista)
+.mvn/wrapper/maven-wrapper.jar
